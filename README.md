@@ -1,4 +1,4 @@
-# Python---OOP Capstone project
+# Python---OOP Capstone project || HyperionDev Software Engineering Bootcamp
 
 Using the fundamentals of OOP in Python, I created a program which allows the user to read and track shoe stock in a .txt file.
 
