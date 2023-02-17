@@ -37,8 +37,8 @@ To use the Shoe Stock Tracker, follow these steps:
 
 Screenshots of the Shoe Stock Tracker in action:
 
-!(/screenshots/shoe_tracker_1.png)
-!(/screenshots/shoe_tracker_2.png)
+![Screenshot 1](/screenshots/shoe_tracker_1.png)
+![Screenshot 2](/screenshots/shoe_tracker_2.png)
 
 ## Credits
 
